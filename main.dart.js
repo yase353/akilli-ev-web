@@ -37348,7 +37348,7 @@ nO(){var s=0,r=A.T(t.H),q=1,p=[],o=this,n,m,l,k,j
 var $async$nO=A.U(function(a,b){if(a===1){p.push(b)
 s=q}for(;;)switch(s){case 0:q=3
 s=6
-return A.V(A.ag0(A.eu("https://akilli-ev-nilm-9.onrender.com/ev-durumu")).nI(B.eC),$async$nO)
+return A.V(A.ag0(A.eu("https://akilli-ev-nilm-zgcq.onrender.com/ev-durumu")).nI(B.eC),$async$nO)
 case 6:n=b
 if(n.b===200){l=n
 m=B.bE.po(A.afT(A.af5(l.e)).dJ(l.w),null)
@@ -37371,7 +37371,7 @@ q7(){var s=0,r=A.T(t.H),q=1,p=[],o=this,n,m,l,k,j
 var $async$q7=A.U(function(a,b){if(a===1){p.push(b)
 s=q}for(;;)switch(s){case 0:q=3
 s=6
-return A.V(A.ag0(A.eu("https://akilli-ev-nilm-9.onrender.com/enerji-gecmisi")).nI(B.eC),$async$q7)
+return A.V(A.ag0(A.eu("https://akilli-ev-nilm-zgcq.onrender.com/enerji-gecmisi")).nI(B.eC),$async$q7)
 case 6:n=b
 if(n.b===200){l=n
 m=B.bE.po(A.afT(A.af5(l.e)).dJ(l.w),null)
@@ -37527,7 +37527,7 @@ var $async$qu=A.U(function(b,c){if(b===1){p.push(c)
 s=q}for(;;)switch(s){case 0:o.aj(new A.aaP(o))
 q=3
 s=6
-return A.V(A.ag0(A.eu("https://akilli-ev-nilm-9.onrender.com/grafik-gecmisi?saat="+a)).nI(B.eC),$async$qu)
+return A.V(A.ag0(A.eu("https://akilli-ev-nilm-zgcq.onrender.com/grafik-gecmisi?saat="+a)).nI(B.eC),$async$qu)
 case 6:n=c
 if(n.b===200)o.aj(new A.aaQ(o,n))
 else o.aj(new A.aaR(o,n))
@@ -37642,7 +37642,7 @@ var $async$mG=A.U(function(a,b){if(a===1){p.push(b)
 s=q}for(;;)switch(s){case 0:o.aj(new A.a91(o))
 q=3
 s=6
-return A.V(A.ag0(A.eu("https://akilli-ev-nilm-9.onrender.com/cihaz-detaylari")).nI(B.eC),$async$mG)
+return A.V(A.ag0(A.eu("https://akilli-ev-nilm-zgcq.onrender.com/cihaz-detaylari")).nI(B.eC),$async$mG)
 case 6:n=b
 if(n.b===200)o.aj(new A.a92(o,n))
 else o.aj(new A.a93(o,n))
